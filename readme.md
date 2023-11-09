@@ -49,28 +49,28 @@ PVT v2|0.419|0.558|Object detection|[config](https://drive.google.com/file/d/18J
 ### Year built
 Method | $mAP$ | $mAP_{50}$ | Task | config | Download
 -------|-------|-------|---------|-----|--------|
-RetinaNet|0.232|0.322|Object detection|[config](https://drive.google.com/file/d/10BH2DF7A7eulf6WEoYgcEWLhwBrH0ukJ/view?usp=drive_link)|[Model](https://drive.google.com/file/d/17duH60XmB5Avy-Q3eH_tMfRIT-iCzRvo/view?usp=drive_link)
-YOLO-F|0.228|0.381|Object detection|[config](https://drive.google.com/file/d/1klTvgHDOoCzyJ6nIMt7ZoO-gYbBnQv5n/view?usp=drive_link)|[Model](https://drive.google.com/file/d/1_JXVw1kAormEvAiZA0wsjNsXinGYkU43/view?usp=drive_link)
-TOOD|0.180|0.241|Object detection|[config](https://drive.google.com/file/d/1OkvksiNSIzR1-DxB5gFCCxVZVeLNVngI/view?usp=drive_link)|[Model](https://drive.google.com/file/d/1bn1bTcM3aY5kTa41OOAfikSI4KSY5uJV/view?usp=drive_link)
-Faster R-CNN|0.254|0.372|Object detection|[config](https://drive.google.com/file/d/12B-3xSNfWKbYSjUwZ1gb5F-ms0Eedwzx/view?usp=drive_link)|[Model](https://drive.google.com/file/d/1Y-TKc15Anv0NblK4ZODsgSsE2hse5Pci/view?usp=drive_link)
-Mask R-CNN|0.256|0.363|Instance segmentation|[config](https://drive.google.com/file/d/1XMcnlOrUo8kgTUnKVOesNU-5WrVVWji-/view?usp=drive_link)|[Model](https://drive.google.com/file/d/1O4Bjtyxkxq4sSkaaGBit8CAkWqpTq41V/view?usp=drive_link)
-Cascade R-CNN|0.245|0.342|Object detection|[config](https://drive.google.com/file/d/14QHQeqEx3sY-e3vaH72-pPcuFcYT2Whk/view?usp=drive_link)|[Model](https://drive.google.com/file/d/1WHojQ8s09Fv5qjIkBXegZC3de8wQ1KfV/view?usp=drive_link)
-RetinaNet (Swin)|0.201|0.293|Object detection|[config](https://drive.google.com/file/d/1s0fnQuHdiMFhADBPQ4tP5lFnTSEOtitW/view?usp=drive_link)|[Model](https://drive.google.com/file/d/1PT8zEtWg6SZdJdzjnzTPABp-yyfKsiwX/view?usp=drive_link)
-Mask R-CNN (Swin)|0.253|0.353|Instance segmentation|[config](https://drive.google.com/file/d/134v1xpf785uPdCL7aM45aCMNY0M0TF9O/view?usp=drive_link)|[Model](https://drive.google.com/file/d/12LGTuZw-0QICQ1KrIZbjZYsHT81oQ9Sd/view?usp=drive_link)
-PVT v2|0.258|0.359|Object detection|[config](https://drive.google.com/file/d/1_HPrHkGrXcRjdxdR9XYlnvjMhgq98Vog/view?usp=drive_link)|[Model](https://drive.google.com/file/d/1A8FRkkDRqW3SaVCF-Hh-r3j5yXw3sbkj/view?usp=drive_link)
+RetinaNet|0.232|0.322|Object detection|[config](https://drive.google.com/file/d/10BH2DF7A7eulf6WEoYgcEWLhwBrH0ukJ/view?usp=drive_link)|[Model](https://drive.google.com/file/d/1YcJD34zJuesv-xcDhlTcuYAnZid8Jecq/view?usp=drive_link)
+YOLO-F|0.228|0.381|Object detection|[config](https://drive.google.com/file/d/1klTvgHDOoCzyJ6nIMt7ZoO-gYbBnQv5n/view?usp=drive_link)|[Model](https://drive.google.com/file/d/1quC5rJ0OJE7jAXQjXe8zjw9SIktzC6N_/view?usp=sharing)
+TOOD|0.180|0.241|Object detection|[config](https://drive.google.com/file/d/1OkvksiNSIzR1-DxB5gFCCxVZVeLNVngI/view?usp=drive_link)|[Model](https://drive.google.com/file/d/15oO_97KMYQgd_KdRF344wD_WlO0P50fb/view?usp=sharing)
+Faster R-CNN|0.254|0.372|Object detection|[config](https://drive.google.com/file/d/12B-3xSNfWKbYSjUwZ1gb5F-ms0Eedwzx/view?usp=drive_link)|[Model](https://drive.google.com/file/d/1NR1A2FIYlAQ8alVV9eG4qgdMzTl8QG1h/view?usp=sharing)
+Mask R-CNN|0.256|0.363|Instance segmentation|[config](https://drive.google.com/file/d/1XMcnlOrUo8kgTUnKVOesNU-5WrVVWji-/view?usp=drive_link)|[Model](https://drive.google.com/file/d/1dK7daaIg-b7Gj33QFbTMvcIa9AvYG_N2/view?usp=sharing)
+Cascade R-CNN|0.245|0.342|Object detection|[config](https://drive.google.com/file/d/14QHQeqEx3sY-e3vaH72-pPcuFcYT2Whk/view?usp=drive_link)|[Model](https://drive.google.com/file/d/1oQp0iNknWCU7Ie_9vruRhX3iVYVV7YQi/view?usp=sharing)
+RetinaNet (Swin)|0.201|0.293|Object detection|[config](https://drive.google.com/file/d/1s0fnQuHdiMFhADBPQ4tP5lFnTSEOtitW/view?usp=drive_link)|[Model](https://drive.google.com/file/d/1FA1OvobR-DqpJDSS7ofrV-WNZV_noGx_/view?usp=sharing)
+Mask R-CNN (Swin)|0.253|0.353|Instance segmentation|[config](https://drive.google.com/file/d/134v1xpf785uPdCL7aM45aCMNY0M0TF9O/view?usp=drive_link)|[Model](https://drive.google.com/file/d/1n3ZqVzIptA-Z4cfTm64n8k-D-yh4n1Sc/view?usp=sharing)
+PVT v2|0.258|0.359|Object detection|[config](https://drive.google.com/file/d/1_HPrHkGrXcRjdxdR9XYlnvjMhgq98Vog/view?usp=drive_link)|[Model](https://drive.google.com/file/d/1Z7Z8Z4tZmlqvOPM0iL05iq5knxAzCkQF/view?usp=sharing)
 
 ### Floor area ratio
 Method | $mAP$ | $mAP_{50}$ | Task | config | Download
 -------|-------|-------|---------|-----|--------|
-RetinaNet|0.278|0.384|Object detection|[config](https://drive.google.com/file/d/1382VDyEQtaXMAkKBxaK6RkoMtI9eTA_g/view?usp=drive_link)|[Model](https://drive.google.com/file/d/11hALqGUfd4ierXDh-lhsjDwC3phBaaPX/view?usp=drive_link)
-YOLO-F|0.248|0.384|Object detection|[config](https://drive.google.com/file/d/1TALAIUDh3l8CqKCdXUd4vCEIUW-ZlBnI/view?usp=drive_link)|[Model](https://drive.google.com/file/d/1QqVCMmTK_BEayF4vgAYFPTSDL0jmrPiy/view?usp=drive_link)
-TOOD|0.275|0.365|Object detection|[config](https://drive.google.com/file/d/1pCr-myStZ7y7nuYX57mSPhwaMgqvGa_v/view?usp=drive_link)|[Model](https://drive.google.com/file/d/1uJQxKIkfOklsQ1MGeHH-NduMN0U3A7IB/view?usp=drive_link)
-Faster R-CNN|0.270|0.381|Object detection|[config](https://drive.google.com/file/d/1HfcMWkzT2QUala7a2WGCXH2peEOpCZyi/view?usp=drive_link)|[Model](https://drive.google.com/file/d/1whJt1gbsWwn3MPyqHVvGEdH9hkyh_cQm/view?usp=drive_link)
-Mask R-CNN|0.279|0.285|Instance segmentation|[config](https://drive.google.com/file/d/1-K6VN37bDbYfyNIiIxkvlpRqdrxMcflr/view?usp=drive_link)|[Model](https://drive.google.com/file/d/1HSAaE9tAs1KpbjRkZ4dtq29g1PV6DBgp/view?usp=drive_link)
-Cascade R-CNN|0.267|0.362|Object detection|[config](https://drive.google.com/file/d/1tDmEX0eQ0deglnB_3oFza1eH-R9VZtPW/view?usp=drive_link)|[Model](https://drive.google.com/file/d/1_F28C5TDDBPFzNxMXhWMUpX-d5Kg9vY9/view?usp=drive_link)
-RetinaNet (Swin)|0.275|0.386|Object detection|[config](https://drive.google.com/file/d/10mfZop6SNEecva74nxyGd8df35SNOWzF/view?usp=drive_link)|[Model](https://drive.google.com/file/d/1DuAbE2tRStqVcObhmbAw_LORMl1V_Ez6/view?usp=drive_link)
-Mask R-CNN (Swin)|0.269|0.367|Instance segmentation|[config](https://drive.google.com/file/d/1nwoHGrG1mLpfTwYvWGyrtdV5CHmJBLAU/view?usp=drive_link)|[Model](https://drive.google.com/file/d/1xfaP1sDgzZx97VDSRbMfU4heEgACOeP3/view?usp=drive_link)
-PVT v2|0.269|0.365|Object detection|[config](https://drive.google.com/file/d/1S6ZZntcLACHhaOtocGg_7fDAZ3F79d1-/view?usp=drive_link)|[Model](https://drive.google.com/file/d/1DVEmmTCLfdLk1H0qAdwoDKPtFyBIQg_K/view?usp=drive_link)
+RetinaNet|0.278|0.384|Object detection|[config](https://drive.google.com/file/d/1382VDyEQtaXMAkKBxaK6RkoMtI9eTA_g/view?usp=drive_link)|[Model](https://drive.google.com/file/d/1DA2pgY-0z4AyXJZP5bSpuh8mEv9xKkLA/view?usp=sharing)
+YOLO-F|0.248|0.384|Object detection|[config](https://drive.google.com/file/d/1TALAIUDh3l8CqKCdXUd4vCEIUW-ZlBnI/view?usp=drive_link)|[Model](https://drive.google.com/file/d/1uE4Vne_MLjpQ84hSEz7q6RYsmG6t3sZm/view?usp=sharing)
+TOOD|0.275|0.365|Object detection|[config](https://drive.google.com/file/d/1pCr-myStZ7y7nuYX57mSPhwaMgqvGa_v/view?usp=drive_link)|[Model](https://drive.google.com/file/d/1YjK8cFLy7mfWdswcKpRcVSCR_8y2_KbM/view?usp=sharing)
+Faster R-CNN|0.270|0.381|Object detection|[config](https://drive.google.com/file/d/1HfcMWkzT2QUala7a2WGCXH2peEOpCZyi/view?usp=drive_link)|[Model](https://drive.google.com/file/d/1zexYKb1mJFfVg7jja-4kbfqGcSxs_DUS/view?usp=sharing)
+Mask R-CNN|0.279|0.285|Instance segmentation|[config](https://drive.google.com/file/d/1-K6VN37bDbYfyNIiIxkvlpRqdrxMcflr/view?usp=drive_link)|[Model](https://drive.google.com/file/d/1n9DwrZ2ThWqV3kbWCPjYyt_srQ1cCiys/view?usp=sharing)
+Cascade R-CNN|0.267|0.362|Object detection|[config](https://drive.google.com/file/d/1tDmEX0eQ0deglnB_3oFza1eH-R9VZtPW/view?usp=drive_link)|[Model](https://drive.google.com/file/d/1oSv4sIvhtexzokUxVbzks7hw2A5aROlb/view?usp=sharing)
+RetinaNet (Swin)|0.275|0.386|Object detection|[config](https://drive.google.com/file/d/10mfZop6SNEecva74nxyGd8df35SNOWzF/view?usp=drive_link)|[Model](https://drive.google.com/file/d/1cuOMFekiDnzQ7UPycq2IrIyyxbPe6rES/view?usp=sharing)
+Mask R-CNN (Swin)|0.269|0.367|Instance segmentation|[config](https://drive.google.com/file/d/1nwoHGrG1mLpfTwYvWGyrtdV5CHmJBLAU/view?usp=drive_link)|[Model](https://drive.google.com/file/d/1ZnMj325mVDJMd_hA97cYnKDhH1iZ7WDx/view?usp=sharing)
+PVT v2|0.269|0.365|Object detection|[config](https://drive.google.com/file/d/1S6ZZntcLACHhaOtocGg_7fDAZ3F79d1-/view?usp=drive_link)|[Model](https://drive.google.com/file/d/1X_96wzeBP4DpUVlMjBZ_yYTLJwbIB5Ws/view?usp=sharing)
 
 
 ## 4. Usage
